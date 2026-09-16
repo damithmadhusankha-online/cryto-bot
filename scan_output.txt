@@ -1,0 +1,158 @@
+Scanning 22 assets x 5 timeframes x 2 variants over 21d (min 12 trades)...
+  [1/220] EURUSD M1 momentum: 21 trades, win 5%, EV -0.912
+  [2/220] EURUSD M1 reversal: 536 trades, win 41%, EV -0.244
+  [3/220] EURUSD M5 momentum: 13 trades, win 31%, EV -0.431
+  [4/220] EURUSD M5 reversal: 329 trades, win 48%, EV -0.106
+  [6/220] EURUSD M15 reversal: 141 trades, win 45%, EV -0.160
+  [8/220] EURUSD M30 reversal: 78 trades, win 46%, EV -0.146
+  [10/220] EURUSD H1 reversal: 49 trades, win 57%, EV +0.057  [CONSISTENT]
+  [11/220] GBPUSD M1 momentum: 20 trades, win 35%, EV -0.353
+  [12/220] GBPUSD M1 reversal: 522 trades, win 56%, EV +0.031
+  [13/220] GBPUSD M5 momentum: 16 trades, win 44%, EV -0.191
+  [14/220] GBPUSD M5 reversal: 359 trades, win 56%, EV +0.036  [CONSISTENT]
+  [16/220] GBPUSD M15 reversal: 130 trades, win 62%, EV +0.138  [CONSISTENT]
+  [18/220] GBPUSD M30 reversal: 81 trades, win 56%, EV +0.028
+  [20/220] GBPUSD H1 reversal: 54 trades, win 46%, EV -0.144
+  [21/220] USDJPY M1 momentum: 24 trades, win 33%, EV -0.383
+  [22/220] USDJPY M1 reversal: 506 trades, win 53%, EV -0.024
+  [24/220] USDJPY M5 reversal: 365 trades, win 52%, EV -0.037
+  [26/220] USDJPY M15 reversal: 128 trades, win 48%, EV -0.118
+  [28/220] USDJPY M30 reversal: 52 trades, win 52%, EV -0.039
+  [30/220] USDJPY H1 reversal: 42 trades, win 55%, EV +0.013
+  [32/220] AUDUSD M1 reversal: 268 trades, win 44%, EV -0.179
+  [34/220] AUDUSD M5 reversal: 343 trades, win 44%, EV -0.180
+  [36/220] AUDUSD M15 reversal: 112 trades, win 53%, EV -0.025
+  [38/220] AUDUSD M30 reversal: 61 trades, win 44%, EV -0.181
+  [40/220] AUDUSD H1 reversal: 43 trades, win 44%, EV -0.183
+  [41/220] USDCAD M1 momentum: 31 trades, win 32%, EV -0.403
+  [42/220] USDCAD M1 reversal: 471 trades, win 67%, EV +0.237  [CONSISTENT]
+  [43/220] USDCAD M5 momentum: 18 trades, win 33%, EV -0.383
+  [44/220] USDCAD M5 reversal: 365 trades, win 61%, EV +0.130  [CONSISTENT]
+  [46/220] USDCAD M15 reversal: 153 trades, win 59%, EV +0.100
+  [48/220] USDCAD M30 reversal: 76 trades, win 49%, EV -0.099
+  [50/220] USDCAD H1 reversal: 52 trades, win 31%, EV -0.431
+  [51/220] USDCHF M1 momentum: 18 trades, win 33%, EV -0.383
+  [52/220] USDCHF M1 reversal: 540 trades, win 51%, EV -0.051
+  [53/220] USDCHF M5 momentum: 15 trades, win 40%, EV -0.260
+  [54/220] USDCHF M5 reversal: 349 trades, win 49%, EV -0.099
+  [56/220] USDCHF M15 reversal: 139 trades, win 49%, EV -0.095
+  [58/220] USDCHF M30 reversal: 77 trades, win 49%, EV -0.087
+  [60/220] USDCHF H1 reversal: 43 trades, win 53%, EV -0.010  [CONSISTENT]
+  [62/220] NZDUSD M1 reversal: 291 trades, win 47%, EV -0.123
+  [64/220] NZDUSD M5 reversal: 376 trades, win 49%, EV -0.095
+  [66/220] NZDUSD M15 reversal: 127 trades, win 50%, EV -0.082
+  [68/220] NZDUSD M30 reversal: 54 trades, win 57%, EV +0.062
+  [70/220] NZDUSD H1 reversal: 33 trades, win 45%, EV -0.159
+  [71/220] EURGBP M1 momentum: 20 trades, win 40%, EV -0.260
+  [72/220] EURGBP M1 reversal: 556 trades, win 49%, EV -0.102
+  [74/220] EURGBP M5 reversal: 387 trades, win 51%, EV -0.049
+  [76/220] EURGBP M15 reversal: 123 trades, win 53%, EV -0.022
+  [78/220] EURGBP M30 reversal: 88 trades, win 43%, EV -0.201
+  [80/220] EURGBP H1 reversal: 54 trades, win 59%, EV +0.096
+  [81/220] EURJPY M1 momentum: 13 trades, win 38%, EV -0.288
+  [82/220] EURJPY M1 reversal: 528 trades, win 54%, EV -0.005
+  [83/220] EURJPY M5 momentum: 16 trades, win 25%, EV -0.537
+  [84/220] EURJPY M5 reversal: 384 trades, win 48%, EV -0.114
+  [86/220] EURJPY M15 reversal: 109 trades, win 61%, EV +0.120
+  [88/220] EURJPY M30 reversal: 55 trades, win 47%, EV -0.125
+  [90/220] EURJPY H1 reversal: 31 trades, win 58%, EV +0.074
+  [91/220] GBPJPY M1 momentum: 16 trades, win 38%, EV -0.306
+  [92/220] GBPJPY M1 reversal: 540 trades, win 51%, EV -0.058
+  [93/220] GBPJPY M5 momentum: 15 trades, win 40%, EV -0.260
+  [94/220] GBPJPY M5 reversal: 360 trades, win 54%, EV +0.002
+  [96/220] GBPJPY M15 reversal: 114 trades, win 51%, EV -0.059
+  [98/220] GBPJPY M30 reversal: 60 trades, win 58%, EV +0.079
+  [100/220] GBPJPY H1 reversal: 29 trades, win 52%, EV -0.043
+  [102/220] XAUUSD M1 reversal: 222 trades, win 48%, EV -0.108
+  [104/220] XAUUSD M5 reversal: 185 trades, win 49%, EV -0.090
+  [106/220] XAUUSD M15 reversal: 80 trades, win 55%, EV +0.018
+  [108/220] XAUUSD M30 reversal: 37 trades, win 41%, EV -0.250
+  [110/220] XAUUSD H1 reversal: 23 trades, win 26%, EV -0.517
+  [112/220] XAGUSD M1 reversal: 211 trades, win 52%, EV -0.044
+  [114/220] XAGUSD M5 reversal: 198 trades, win 52%, EV -0.038
+  [116/220] XAGUSD M15 reversal: 88 trades, win 61%, EV +0.135
+  [118/220] XAGUSD M30 reversal: 42 trades, win 60%, EV +0.101  [CONSISTENT]
+  [120/220] XAGUSD H1 reversal: 23 trades, win 48%, EV -0.115
+  [122/220] WTI_OIL M1 reversal: 236 trades, win 43%, EV -0.200
+  [124/220] WTI_OIL M5 reversal: 186 trades, win 52%, EV -0.045
+  [126/220] WTI_OIL M15 reversal: 55 trades, win 71%, EV +0.312  [CONSISTENT]
+  [128/220] WTI_OIL M30 reversal: 24 trades, win 62%, EV +0.156
+  [130/220] WTI_OIL H1 reversal: 18 trades, win 67%, EV +0.233  [CONSISTENT]
+  [132/220] BRENT M1 reversal: 237 trades, win 46%, EV -0.141
+  [134/220] BRENT M5 reversal: 192 trades, win 55%, EV +0.021  [CONSISTENT]
+  [136/220] BRENT M15 reversal: 52 trades, win 67%, EV +0.245  [CONSISTENT]
+  [138/220] BRENT M30 reversal: 28 trades, win 61%, EV +0.123
+  [140/220] BRENT H1 reversal: 17 trades, win 76%, EV +0.415  [CONSISTENT]
+  [141/220] BTCUSD M1 momentum: 29 trades, win 28%, EV -0.490
+  [142/220] BTCUSD M1 reversal: 957 trades, win 55%, EV +0.017
+  [143/220] BTCUSD M5 momentum: 25 trades, win 48%, EV -0.112
+  [144/220] BTCUSD M5 reversal: 918 trades, win 54%, EV +0.002
+  [145/220] BTCUSD M15 momentum: 13 trades, win 31%, EV -0.431
+  [146/220] BTCUSD M15 reversal: 313 trades, win 55%, EV +0.017
+  [148/220] BTCUSD M30 reversal: 161 trades, win 48%, EV -0.104
+  [150/220] BTCUSD H1 reversal: 86 trades, win 49%, EV -0.097
+  [151/220] ETHUSD M1 momentum: 37 trades, win 41%, EV -0.250
+  [152/220] ETHUSD M1 reversal: 966 trades, win 53%, EV -0.018
+  [153/220] ETHUSD M5 momentum: 30 trades, win 37%, EV -0.322
+  [154/220] ETHUSD M5 reversal: 917 trades, win 55%, EV +0.025  [CONSISTENT]
+  [155/220] ETHUSD M15 momentum: 12 trades, win 42%, EV -0.229
+  [156/220] ETHUSD M15 reversal: 308 trades, win 63%, EV +0.165  [CONSISTENT]
+  [158/220] ETHUSD M30 reversal: 156 trades, win 59%, EV +0.091
+  [160/220] ETHUSD H1 reversal: 73 trades, win 55%, EV +0.014  [CONSISTENT]
+  [161/220] SOLUSD M1 momentum: 28 trades, win 46%, EV -0.141
+  [162/220] SOLUSD M1 reversal: 952 trades, win 53%, EV -0.017
+  [163/220] SOLUSD M5 momentum: 34 trades, win 59%, EV +0.088
+  [164/220] SOLUSD M5 reversal: 942 trades, win 53%, EV -0.022
+  [165/220] SOLUSD M15 momentum: 13 trades, win 38%, EV -0.288
+  [166/220] SOLUSD M15 reversal: 316 trades, win 58%, EV +0.066  [CONSISTENT]
+  [168/220] SOLUSD M30 reversal: 163 trades, win 60%, EV +0.101  [CONSISTENT]
+  [170/220] SOLUSD H1 reversal: 78 trades, win 56%, EV +0.044
+  [171/220] XRPUSD M1 momentum: 32 trades, win 50%, EV -0.075
+  [172/220] XRPUSD M1 reversal: 917 trades, win 52%, EV -0.036
+  [173/220] XRPUSD M5 momentum: 41 trades, win 44%, EV -0.188
+  [174/220] XRPUSD M5 reversal: 937 trades, win 54%, EV -0.001
+  [175/220] XRPUSD M15 momentum: 16 trades, win 44%, EV -0.191
+  [176/220] XRPUSD M15 reversal: 296 trades, win 54%, EV -0.006
+  [178/220] XRPUSD M30 reversal: 146 trades, win 56%, EV +0.039  [CONSISTENT]
+  [180/220] XRPUSD H1 reversal: 71 trades, win 55%, EV +0.016
+  [182/220] SPX500 M1 reversal: 269 trades, win 42%, EV -0.223
+  [183/220] SPX500 M5 momentum: 12 trades, win 42%, EV -0.229
+  [184/220] SPX500 M5 reversal: 173 trades, win 47%, EV -0.123
+  [186/220] SPX500 M15 reversal: 65 trades, win 52%, EV -0.032
+  [188/220] SPX500 M30 reversal: 26 trades, win 62%, EV +0.138
+  [190/220] SPX500 H1 reversal: 14 trades, win 43%, EV -0.207
+  [192/220] NAS100 M1 reversal: 263 trades, win 50%, EV -0.071
+  [194/220] NAS100 M5 reversal: 159 trades, win 43%, EV -0.197
+  [196/220] NAS100 M15 reversal: 71 trades, win 56%, EV +0.042
+  [198/220] NAS100 M30 reversal: 20 trades, win 50%, EV -0.075
+  [201/220] DJI30 M1 momentum: 13 trades, win 69%, EV +0.281
+  [202/220] DJI30 M1 reversal: 290 trades, win 44%, EV -0.177
+  [204/220] DJI30 M5 reversal: 162 trades, win 54%, EV -0.006
+  [206/220] DJI30 M15 reversal: 53 trades, win 51%, EV -0.058
+  [208/220] DJI30 M30 reversal: 29 trades, win 76%, EV +0.403  [CONSISTENT]
+  [210/220] DJI30 H1 reversal: 18 trades, win 56%, EV +0.028
+  [212/220] DAX40 M1 reversal: 91 trades, win 59%, EV +0.098  [CONSISTENT]
+  [214/220] DAX40 M5 reversal: 80 trades, win 61%, EV +0.133  [CONSISTENT]
+  [216/220] DAX40 M15 reversal: 40 trades, win 57%, EV +0.064
+
+===== TOP MARKETS BY BACKTESTED EXPECTANCY =====
+  asset    category timeframe  variant  n_trades  win_rate  profit_factor  expectancy  max_drawdown  consistent
+  BRENT Commodities        H1 reversal        17    0.7647           2.76      0.4147          2.00        True
+  DJI30     Indices       M30 reversal        29    0.7586           2.67      0.4034          2.15        True
+WTI_OIL Commodities       M15 reversal        55    0.7091           2.07      0.3118          5.00        True
+  DJI30     Indices        M1 momentum        13    0.6923           1.91      0.2808          2.00       False
+  BRENT Commodities       M15 reversal        52    0.6731           1.75      0.2452          5.15        True
+ USDCAD       Forex        M1 reversal       471    0.6688           1.72      0.2373         11.20        True
+WTI_OIL Commodities        H1 reversal        18    0.6667           1.70      0.2333          3.00        True
+ ETHUSD      Crypto       M15 reversal       308    0.6299           1.45      0.1653          7.15        True
+
+Watchlist saved to watchlist.csv:
+  - BRENT H1 [reversal]
+  - DJI30 M30 [reversal]
+  - WTI_OIL M15 [reversal]
+  - DJI30 M1 [momentum]
+  - BRENT M15 [reversal]
+  - USDCAD M1 [reversal]
+  - WTI_OIL H1 [reversal]
+  - ETHUSD M15 [reversal]
+EXIT=0

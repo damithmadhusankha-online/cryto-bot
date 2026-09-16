@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data_cache/
+sent_state.json
+serve_state.json
+subscribers.json
+signal_log.jsonl
+*.png
+*.bat.bak
+.env

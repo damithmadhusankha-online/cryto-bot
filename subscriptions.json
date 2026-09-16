@@ -1,0 +1,796 @@
+{
+  "1844707362": {
+    "plan": "pro",
+    "pro_until": null,
+    "joined": "2026-09-09T16:32:06.491061+00:00",
+    "daily": {
+      "2026-09-10": 5
+    },
+    "receipts": [
+      {
+        "signal_ts": "2026-09-10T02:48:14.189397+00:00",
+        "asset": "BTCUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 78253.953125,
+        "received_at": "2026-09-10T02:48:17.252838+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:48:14.189397+00:00",
+        "asset": "XRPUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.38970006,
+        "received_at": "2026-09-10T02:48:19.819536+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:48:14.189397+00:00",
+        "asset": "ADAUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.21246,
+        "received_at": "2026-09-10T02:48:21.080112+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:48:14.189397+00:00",
+        "asset": "AVAXUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 7.79199982,
+        "received_at": "2026-09-10T02:48:22.418296+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:48:14.189397+00:00",
+        "asset": "LINKUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 11.82400036,
+        "received_at": "2026-09-10T02:48:25.076047+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:46.586442+00:00",
+        "asset": "EURJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 179.28900146,
+        "received_at": "2026-09-10T12:26:54.228769+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:45.521014+00:00",
+        "asset": "EURJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 179.28900146,
+        "received_at": "2026-09-10T12:26:54.332018+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:46.586442+00:00",
+        "asset": "USDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 154.29800415,
+        "received_at": "2026-09-10T12:27:02.557960+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:45.521014+00:00",
+        "asset": "USDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 154.30000305,
+        "received_at": "2026-09-10T12:27:03.123533+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:45.521014+00:00",
+        "asset": "EURAUD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61881006,
+        "received_at": "2026-09-10T12:27:12.750637+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:46.586442+00:00",
+        "asset": "EURAUD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61877,
+        "received_at": "2026-09-10T12:27:17.003571+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:45.521014+00:00",
+        "asset": "EURAUD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61881006,
+        "received_at": "2026-09-10T12:27:19.816698+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:46.586442+00:00",
+        "asset": "NZDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 89.76999664,
+        "received_at": "2026-09-10T12:27:25.255123+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:45.521014+00:00",
+        "asset": "AUDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 110.7519989,
+        "received_at": "2026-09-10T12:27:27.800583+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:26:45.521014+00:00",
+        "asset": "NZDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 89.76999664,
+        "received_at": "2026-09-10T12:27:32.827985+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURJPY",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 179.33500671,
+        "received_at": "2026-09-10T12:27:46.882941+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "CADJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 111.71700287,
+        "received_at": "2026-09-10T12:27:50.545015+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.94375998,
+        "received_at": "2026-09-10T12:27:54.170933+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 179.33999634,
+        "received_at": "2026-09-10T12:27:55.704016+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURAUD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61886001,
+        "received_at": "2026-09-10T12:27:57.279675+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURAUD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61886001,
+        "received_at": "2026-09-10T12:27:58.838808+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99733996,
+        "received_at": "2026-09-10T12:28:01.708692+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99757004,
+        "received_at": "2026-09-10T12:28:03.288636+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.185209+00:00",
+        "asset": "NZDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 89.77999878,
+        "received_at": "2026-09-10T12:28:04.780225+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "USDCHF",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.81439,
+        "received_at": "2026-09-10T12:39:16.802496+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "USDCAD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.38287997,
+        "received_at": "2026-09-10T12:39:20.807677+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "EURCHF",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.94428998,
+        "received_at": "2026-09-10T12:39:22.344203+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "USDCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.81434,
+        "received_at": "2026-09-10T12:39:23.841723+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "EURAUD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61974001,
+        "received_at": "2026-09-10T12:39:25.409088+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "EURCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.94435,
+        "received_at": "2026-09-10T12:39:26.906061+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "GBPCHF",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.09922004,
+        "received_at": "2026-09-10T12:39:30.021247+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99896002,
+        "received_at": "2026-09-10T12:39:31.689086+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.711402+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99899995,
+        "received_at": "2026-09-10T12:39:33.278318+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T13:11:54.641774+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99943995,
+        "received_at": "2026-09-10T13:11:58.323959+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T13:11:54.641774+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99943995,
+        "received_at": "2026-09-10T13:11:59.972443+00:00",
+        "credited": false
+      }
+    ],
+    "username": "hirusha_pathirana",
+    "name": "Hirusha",
+    "last_seen": "2026-09-10T13:10:28.783924+00:00"
+  },
+  "5691208941": {
+    "plan": "free",
+    "pro_until": null,
+    "joined": "2026-09-09T16:54:49.116730+00:00",
+    "daily": {
+      "2026-09-09": 4,
+      "2026-09-10": 5
+    },
+    "receipts": [
+      {
+        "signal_ts": "2026-09-09T19:36:18.313513+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99198997,
+        "received_at": "2026-09-09T19:36:20.749385+00:00"
+      },
+      {
+        "signal_ts": "2026-09-09T19:36:18.313513+00:00",
+        "asset": "EURGBP",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.85860002,
+        "received_at": "2026-09-09T19:36:22.901898+00:00"
+      },
+      {
+        "signal_ts": "2026-09-09T19:58:02.008070+00:00",
+        "asset": "USDCAD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.38074005,
+        "received_at": "2026-09-09T19:58:04.807659+00:00"
+      },
+      {
+        "signal_ts": "2026-09-09T19:58:02.008070+00:00",
+        "asset": "GBPCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.09748006,
+        "received_at": "2026-09-09T19:58:07.238028+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:43:56.793339+00:00",
+        "asset": "ETHUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 2470.36010742,
+        "received_at": "2026-09-10T02:43:59.668815+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:43:56.793339+00:00",
+        "asset": "SOLUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 101.55000305,
+        "received_at": "2026-09-10T02:44:01.927321+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:43:56.793339+00:00",
+        "asset": "DOGEUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.08588,
+        "received_at": "2026-09-10T02:44:04.204575+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:43:56.793339+00:00",
+        "asset": "ADAUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.21223,
+        "received_at": "2026-09-10T02:44:06.535074+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T02:43:56.793339+00:00",
+        "asset": "AVAXUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 7.78800011,
+        "received_at": "2026-09-10T02:44:08.483116+00:00"
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURJPY",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 179.33500671,
+        "received_at": "2026-09-10T12:27:47.272935+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "CADJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 111.71700287,
+        "received_at": "2026-09-10T12:27:50.497110+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.94376999,
+        "received_at": "2026-09-10T12:27:54.248878+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 179.33999634,
+        "received_at": "2026-09-10T12:27:55.819602+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURAUD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61886001,
+        "received_at": "2026-09-10T12:27:57.329418+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURAUD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61896002,
+        "received_at": "2026-09-10T12:27:58.827605+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99733996,
+        "received_at": "2026-09-10T12:28:01.679506+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99757004,
+        "received_at": "2026-09-10T12:28:03.217140+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:27:45.582420+00:00",
+        "asset": "NZDJPY",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 89.77999878,
+        "received_at": "2026-09-10T12:28:04.764527+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "USDCHF",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.81439,
+        "received_at": "2026-09-10T12:39:16.823949+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "USDCAD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.38287997,
+        "received_at": "2026-09-10T12:39:21.779963+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "EURCHF",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.94428998,
+        "received_at": "2026-09-10T12:39:23.322245+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "USDCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.81434,
+        "received_at": "2026-09-10T12:39:24.949248+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "EURAUD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.61974001,
+        "received_at": "2026-09-10T12:39:26.397731+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "EURCHF",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.94435,
+        "received_at": "2026-09-10T12:39:27.872142+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "GBPCHF",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.09922004,
+        "received_at": "2026-09-10T12:39:30.861566+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99896002,
+        "received_at": "2026-09-10T12:39:32.424190+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T12:39:12.714271+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99899995,
+        "received_at": "2026-09-10T12:39:34.091103+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T13:11:54.648529+00:00",
+        "asset": "EURNZD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99943995,
+        "received_at": "2026-09-10T13:11:58.288435+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T13:11:54.648529+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99943995,
+        "received_at": "2026-09-10T13:12:00.057387+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T13:13:44.366691+00:00",
+        "asset": "EURAUD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.62027001,
+        "received_at": "2026-09-10T13:13:47.173876+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T13:13:44.366691+00:00",
+        "asset": "EURNZD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.99995005,
+        "received_at": "2026-09-10T13:13:48.503757+00:00",
+        "credited": false
+      }
+    ],
+    "username": "madhux",
+    "name": "Damith",
+    "last_seen": "2026-09-12T16:23:33.413362+00:00"
+  },
+  "2134914597": {
+    "plan": "pro",
+    "pro_until": null,
+    "joined": "2026-09-09T20:35:34.294100+00:00",
+    "username": "damith_madhushankha",
+    "name": "Damith",
+    "last_seen": "2026-09-10T03:04:52.835767+00:00",
+    "daily": {},
+    "receipts": [
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "ETHUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 2477.80004883,
+        "received_at": "2026-09-10T03:05:13.792775+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "ADAUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.21349999,
+        "received_at": "2026-09-10T03:05:16.219236+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "LINKUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 11.86600018,
+        "received_at": "2026-09-10T03:05:18.172630+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "BTCUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 78478.8203125,
+        "received_at": "2026-09-10T03:05:20.828123+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "TRXUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.33955458,
+        "received_at": "2026-09-10T03:05:22.841313+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "BTCUSD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 78478.8203125,
+        "received_at": "2026-09-10T03:05:24.018567+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "ETHUSD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 2477.80004883,
+        "received_at": "2026-09-10T03:05:25.230437+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "SOLUSD",
+        "tf": "M5",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 102.01000214,
+        "received_at": "2026-09-10T03:05:27.615685+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "XRPUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 1.39390004,
+        "received_at": "2026-09-10T03:05:30.013737+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "DOGEUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 0.08612,
+        "received_at": "2026-09-10T03:05:32.500699+00:00",
+        "credited": false
+      },
+      {
+        "signal_ts": "2026-09-10T03:05:10.486790+00:00",
+        "asset": "AVAXUSD",
+        "tf": "M1",
+        "variant": "confluence",
+        "direction": "CALL",
+        "entry": 7.81099987,
+        "received_at": "2026-09-10T03:05:34.542121+00:00",
+        "credited": false
+      }
+    ]
+  }
+}
